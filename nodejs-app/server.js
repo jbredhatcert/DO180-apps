@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 var createError = require('html-errors');
+=======
+var createError = require('html-error');
+>>>>>>> 1d7f61dd2f1eafb7707224f73584d4cac9f83cd7
 
 var express = require('express');
 app = express();
